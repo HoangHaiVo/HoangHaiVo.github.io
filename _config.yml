@@ -7,11 +7,11 @@ url: "https://hoanghaivo.github.io" # the base hostname & protocol for your site
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: Hoang Hai Vo
   image: '/assets/img/hai-avatar.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  job: Business Solution Consultants
+  bio: Tư vấn giải pháp doanh nghiệp - Ứng dụng công nghệ thông tin vận hành nghiệp vụ thực tế
+  email: haivo.ssg@gmail.com
 
 
 # Contact links
@@ -19,9 +19,9 @@ contact:
   - name: Twitter
     link: https://twitter.com/
   - name: Facebook
-    link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
+    link: https://www.facebook.com/vohuuhoanghai
+  - name: Linkedin
+    link: https://www.linkedin.com/in/ho%C3%A0ng-h%E1%BA%A3i-851127192/
 
 
 # Comment Section (Disqus)
