@@ -2,7 +2,7 @@
 layout: post
 title:  Công Dụng Của Chuối
 date:   2020-02-21 13:30:35 +0300
-image:  '/assets/img/congdungcuachuoi.jpg'
+image:  '/assets/img/congdungcuachuoi.png'
 tags:   [chuoi, condung, kienthuc]
 ---
 Chẳng hẳn chuối thì ai cũng biết, nhưng công dụng của chuối chín theo từng giai đoạn chín thì chắc không phải ai cũng nắm rõ.
@@ -21,7 +21,7 @@ Vì vậy, cùng tôi xem nhé!
 
 >Probiotic là tất cả các thứ tốt nhất cho bạn, đặc biệt là cho đại tràng của bạn. Những thứ này cũng có thể giúp bạn hấp thụ chất dinh dưỡng tốt hơn (đặc biệt là canxi).
 
-##Lợi ích của chuối chín:
+## Lợi ích của chuối chín:
 
 - Các đốm nâu trên chuối cho thấy TNF (Yếu tố hoại tử khối u) (Tumor Necrosis Factor). TNF giúp chống lại các tế bào bất thường trong cơ thể.
 
