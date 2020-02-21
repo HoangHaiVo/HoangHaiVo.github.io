@@ -37,3 +37,4 @@ Tất cả những gì nhân gian huyền hoặc về Phật về Pháp là bị
 Ngàn năm mặt trời vẫn thế là bản thể mặt trời. Nhưng nhận thức về mặt trời của con người luôn thay đổi, ngày càng sáng rõ hơn. Thay đổi mãi, đổi mãi để tiệm cận đến bản thể thực sự của mặt trời. Cho dù nhận ra rồi, thì mặt trời vẫn thế, chỉ là con người đó đỡ khổ vì ngu vì vọng tưởng mặt trời thôi. Chứ đừng mong dịch chuyển hay bắn rụng mặt trời.
 Có nghĩa là gì ? Nghĩa là nếu không làm thì không bao giờ có. Không làm thì Việt Nam không thành siêu cường được đâu, ngồi đó mà lạy Phật. Chỉ là nếu làm, thì hãy làm theo quy luật vận hành tự nhiên thì sẽ thành công. Nhắm mắt làm bừa làm ẩu thì chỉ có xuống hố. Vì khi Đức Phật uống nhiều nước, Ngài cũng phải đi đái mà thôi
 ---
+Nguồn: Trên trời rớt xuống
